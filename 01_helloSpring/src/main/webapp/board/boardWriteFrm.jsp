@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1> 게시글작성페이지</h1>
+	
 </body>
 </html>
